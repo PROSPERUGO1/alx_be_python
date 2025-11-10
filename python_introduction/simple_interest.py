@@ -6,4 +6,4 @@ time = 3 # 3 years
 
 # Calculate the simple interest using the formular
 interest = principle * rate * time
-print("The simple interest is:", interest)
+print(f"The simple interest is: {interest}")
