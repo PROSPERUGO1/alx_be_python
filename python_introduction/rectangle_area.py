@@ -1,5 +1,3 @@
-length = 10
-width = 5
-area = length * width
-print(f"The area of the rectangle is: {area}")
-
+[main 0286cbd] area of a rectangle
+ 2 files changed, 5 insertions(+)
+ create mode 100644 python_introduction/rectangle_area.py
