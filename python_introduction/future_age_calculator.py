@@ -1,3 +1,4 @@
-current_age = 30
-age = current_age + 27
-print(f"in 2050, you will be {age} years old")
+age = int (input("How old are you? "))
+Years_To_Add = 27
+future_age = int(age) + int(Years_To_Add)
+print("In 2052, you will be", future_age, )
