@@ -1,4 +1,2 @@
-length = 10
-width = 5
-area = length * width
-print(f"The area of the rectangle is: {area}")
+[main 7af4eb1] rectangle
+ 3 files changed, 19 insertions(+), 9 deletions(-)

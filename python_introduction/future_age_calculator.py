@@ -1,4 +1,11 @@
-age = int (input("How old are you? "))
-Years_To_Add = 27
-future_age = int(age) + int(Years_To_Add)
-print("In 2052, you will be", future_age, )
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   future_age_calculator.py
+	modified:   rectangle_area.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
