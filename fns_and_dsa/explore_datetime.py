@@ -12,4 +12,3 @@ def calculate_future_date(days):
     print("Future date: ", {formatted_date})
 calculate_future_date('days')
 
-
